@@ -2,7 +2,7 @@
 
 ## Something new
 
-增加tailwind类名排序功能，其他不变。
+增加button组件防止空文件不提交git，增加tailwind类名排序功能，其他不变。
 
 ## Getting Started
 
