@@ -13,7 +13,7 @@ git clone git@github.com:daisnkzy/next-shadcn-mini.git .
 
 克隆至本地并重命名：
 ```
-git clone git@github.com:daisnkzy/next-shadcn-mini.git --
+git clone git@github.com:daisnkzy/next-shadcn-mini.git --new-project-name
 ```
 
 
