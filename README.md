@@ -9,13 +9,11 @@
 克隆至已有文件夹中：
 ```
 git clone git@github.com:daisnkzy/next-shadcn-mini.git .
-
 ```
 
 克隆至本地并重命名：
 ```
 git clone git@github.com:daisnkzy/next-shadcn-mini.git --
-
 ```
 
 
